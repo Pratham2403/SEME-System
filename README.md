@@ -4,7 +4,8 @@
 
 ## Guide
 
--   Clone in your computer 'git clone https://github.com/Pratham2403/SEME-System.git'
+-   Clone in your computer "git clone https://github.com/Pratham2403/SEME-System.git"
+-   Run Website on anywhere from "https://seme-frontend.onrender.com/"
 -   Change directory 'cd SEME-System'
 -   Install all dependencies 'npm install'
 
